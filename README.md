@@ -22,3 +22,5 @@ I believe the tool is sure to be a great fit for my personal goals with game dev
 ---
 
 ## Day 2
+
+The second day was a busy day at college, so I was unable to study as much as I would've liked, but I still made plenty of progress. I completed the **Step by step** section, learning how to use signals, and started the **Your first 2D game** section, setting up the project. Signals are a little complicated to grasp at first, but they don't seem to be a hard concept at all. It's just something I have to get acquaintanced with.
