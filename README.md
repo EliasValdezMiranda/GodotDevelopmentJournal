@@ -19,8 +19,8 @@ Then, I started to follow the **Step by step** guide, where I started to learn t
 
 I believe the tool is sure to be a great fit for my personal goals with game development, which is to, in a month's time, create the prototype of a videogame I'm envisioning: A rage game where you have to climb an elevated surface through platforming, with antigravity mechanics at the player's will. This concept may evolve with time, but, as a first idea, that's what I have in mind. I'll try to finish the basic guides by the third day, then I'll start experimenting with the editor and make small, playable prototypes.
 
----
-
 ## Day 2
 
-The second day was a busy day at college, so I was unable to study as much as I would've liked, but I still made plenty of progress. I completed the **Step by step** section, learning how to use signals, and started the **Your first 2D game** section, setting up the project. Signals are a little complicated to grasp at first, but they don't seem to be a hard concept at all. It's just something I have to get acquaintanced with.
+The second day was a busy day at college, so I was unable to study as much as I would've liked, but I still made plenty of progress. I completed the **Step by step** section, learning how to use signals, and completed the **Your first 2D game** section, learning how to use many of the concepts seen in the first guide. Signals are a little complicated to grasp at first, but they don't seem to be a hard concept at all. It's just something I have to get acquaintanced with. The tutorial should serve as a reference on how to do some basic stuff, like controlling a figure, instantiating scenes via code, creating HUD elements, assigning animations and more. While the project is simple, following and understanding the steps still took some time, and, considering I'm now sending myself into the open and following no more tutorial projects, things may slow over the following entries, but I'll continue learning, everything's been so fun so far!
+
+## Day 3
